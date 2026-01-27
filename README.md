@@ -1,0 +1,1 @@
+Now I can do links, images and other usefull stuff.
